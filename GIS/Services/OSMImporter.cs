@@ -39,6 +39,7 @@ namespace GIS.Services
                     _context.ElectricPoles.Add(electricPole);
                 }
 
+
                 _context.SaveChanges();
             }
         }
